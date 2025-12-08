@@ -1,7 +1,5 @@
 # I'm Arthur aka Ruzbyte
 
-Formerly know as ZAROC
-
 <img width="838" height="325" alt="Mindscape_Hoshimi_Miyabi_Default_trim" src="https://github.com/user-attachments/assets/478fe093-b55a-4da8-9f34-a21c6b18ccab" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-aktamirov/)
@@ -11,6 +9,8 @@ Formerly know as ZAROC
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/306868044276432901)](https://discord.com/users/306868044276432901)
+
+Formerly known as ZAROC
 
 ## About me
 
