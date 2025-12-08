@@ -1,4 +1,6 @@
-# I'm Arthur aka __ZAROC__
+# I'm Arthur aka Ruzbyte
+
+Formerly know as ZAROC
 
 <img width="838" height="325" alt="Mindscape_Hoshimi_Miyabi_Default_trim" src="https://github.com/user-attachments/assets/478fe093-b55a-4da8-9f34-a21c6b18ccab" />
 
