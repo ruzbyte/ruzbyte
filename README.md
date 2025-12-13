@@ -37,8 +37,8 @@ In my free time I develop web applications and mobile apps with Flutter, NextJS 
 ## Stats never hurt
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=z4roc&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z4roc&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ruzbyte&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzbyte&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=z4roc&color=blueviolet)
