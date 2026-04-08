@@ -1,11 +1,9 @@
-# I'm Arthur aka Ruzbyte
-
-<img width="838" height="325" alt="Mindscape_Hoshimi_Miyabi_Default_trim" src="https://github.com/user-attachments/assets/478fe093-b55a-4da8-9f34-a21c6b18ccab" />
+# Arthur "ruzbyte" Aktamirov
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-aktamirov/)
-[![X (Twitter)](https://img.shields.io/badge/Follow_me_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zaroc_dev)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arthur.rza)
-[![My Portfolio](https://img.shields.io/badge/My_Portfolio-5865F2?style=for-the-badge)](https://zaroc.de)
+[![X (Twitter)](https://img.shields.io/badge/Follow_me_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ruzbyte)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ruzbyte)
+[![My Portfolio](https://img.shields.io/badge/My_Portfolio-5865F2?style=for-the-badge)](https://ruzbyte.com)
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/306868044276432901)](https://discord.com/users/306868044276432901)
@@ -34,16 +32,9 @@ In my free time I develop web applications and mobile apps with Flutter, NextJS 
 
 [![Backend](https://skillicons.dev/icons?i=docker,vite,gitlab,github,vscode,visualstudio,androidstudio,rider,idea)](https://skillicons.dev)
 
-## Stats never hurt
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ruzbyte&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruzbyte&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=z4roc&color=blueviolet)
 
-![MiyabiRunZzzGIF](https://github.com/user-attachments/assets/fae88394-8282-4c03-86ee-fe3b0b6334ad)
 
 
 <!--
