@@ -1,11 +1,9 @@
-# Arthur "ruzbyte" Aktamirov
+# Arthur "ZAROC" Aktamirov
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-aktamirov/)
 [![X (Twitter)](https://img.shields.io/badge/Follow_me_on_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ruzbyte)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ruzbyte)
 [![My Portfolio](https://img.shields.io/badge/My_Portfolio-5865F2?style=for-the-badge)](https://ruzbyte.com)
-
-Formerly known as ZAROC
 
 ## About me
 
