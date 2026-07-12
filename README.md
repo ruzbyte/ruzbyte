@@ -5,9 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ruzbyte)
 [![My Portfolio](https://img.shields.io/badge/My_Portfolio-5865F2?style=for-the-badge)](https://ruzbyte.com)
 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/306868044276432901)](https://discord.com/users/306868044276432901)
-
 Formerly known as ZAROC
 
 ## About me
